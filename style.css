@@ -21,7 +21,6 @@ header>h1 {
     background-color: aqua;
     height: 77px;
     width: 350px;
-    margin-left: 10px;
     color: rgb(0, 0, 0);
     display: flex;
     border-radius: 7px;
@@ -59,7 +58,6 @@ main>section>h2 {
     letter-spacing: 2px;
     display: flex;
     justify-self: center;
-    align-self: ;
     margin: 13px 0 0 33px;
     color: greenyellow;
 }
